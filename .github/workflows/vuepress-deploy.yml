@@ -13,6 +13,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.DOCUMENTATION_SECRET }}
         TARGET_REPO: oficinaonlinecr/documentation
         TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn docs:build
+        BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist
         CNAME: https://oficinaonlinecr.com
