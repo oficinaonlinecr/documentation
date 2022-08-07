@@ -9,9 +9,7 @@ features:
 - title: Fácil
   details: Fácil obtener información
 - title: Rápido
-  details: Obtenga la información que necesitas, cuando la necesitas.
-- title: Feature 3 Title
-  details: Feature 3 Description
+  details: Obtenga la información que necesita, cuando la necesita.
 
 footer: Creado por Oficinaonline
 ---
