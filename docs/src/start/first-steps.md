@@ -1,4 +1,5 @@
 # Primeros pasos
+Antes de poder usar tu cuenta para enviar y recibir facturas es necesario que configures lla llave criptográfica y la contraseña en producción. En esta guia te llevaremos paso a paso para configurar tu cuenta.
 
 ## Llave criptográfica y Usuario y contraseña de producción
 
