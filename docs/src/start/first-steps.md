@@ -1,9 +1,11 @@
 # Primeros pasos
-Antes de poder usar tu cuenta para enviar y recibir facturas es necesario que configures lla llave criptográfica y la contraseña en producción. En esta guia te llevaremos paso a paso para configurar tu cuenta.
+
+Antes de poder usar tu cuenta para enviar y recibir facturas es necesario que configures la llave criptográfica y la contraseña en producción. En esta guía te llevaremos paso a paso para configurar tu cuenta.
 
 ## Llave criptográfica y Usuario y contraseña de producción
 
 ### Llave criptográfica
+
 La llave criptográfica es un certificado emitido por el ministerio de Hacienda y se usa como medida de seguridad para garantizar la autoría de los documentos electrónicos, se genera en el portal del [ATV](https://atv.hacienda.go.cr/ATV/Login.aspx). Normalmente este certificado lo genera el contador o quien tenga acceso al portal del [ATV](https://atv.hacienda.go.cr/ATV/Login.aspx).
 
 Una vez que tengas ese archivo ".p12" debes ir sobre la esquina superior derecha, dar clic sobre la foto y luego en empresa, una vez en esta parte, das clic sobre el botón verde "Conectividad" y se mostrará una ventana y escoges la pestaña "Llave criptográfica", es esta ventana hay dos campos, en el primero ingresas el pin de 4 dígitos y el en segundo cargar el archivo de la Llave criptográfica.
