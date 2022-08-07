@@ -13,6 +13,6 @@ jobs:
         ACCESS_TOKEN: ${{secrets.DOCUMENTATION_SECRET}}
         TARGET_REPO: oficinaonlinecr/documentation
         TARGET_BRANCH: master
-        BUILD_SCRIPT: npm && run npm install --production
+        BUILD_SCRIPT: npm && npm run build
         BUILD_DIR: docs/.vuepress/dist
         CNAME: https://oficinaonlinecr.com
