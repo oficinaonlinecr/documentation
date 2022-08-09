@@ -42,17 +42,17 @@ En este campo se ingresa el nombre de tu producto.
 
 Estos campos se usan para productos que se compran y se venden, ejemplo: compras una calculadora para venderla, entonces en costo ingresas el precio de costo de esa calculadora y en margen ingresas el margen de ganancia con el que vas a trabajar. También puede dejarlos en 0 para ingresar el precio al crear la factura. Lo puedes editar después.
 
--- **Código Cabys**
+- **Código Cabys**
 
-En este campo se ingresa el código Cabys de referencia del producto, se debe buscar en la tabla de la derecha de acuerdo a la tarifa a la que esté afecto el producto. Por defecto está seleccionada la pestaña **Exe**, que lista los códigos Cabys para productos exentos. Seleccione la pestaña de la tarifa que desees e ingresa palabras claves para buscar un código que se relacione con tu producto o servicio. Una vez encontrado solo debes tocar el código para que este se agregue a tu producto y se configure el impuesto correspondiente. Para el ejemplo de la calculadora, el código Cabys correspondiente es ***4513000000000*** sobre la pestaña ***Grav 13%***.
+En este campo se ingresa el código Cabys de referencia del producto, se debe buscar en la tabla de la derecha de acuerdo a la tarifa a la que esté afecto el producto. Por defecto está seleccionada la pestaña **"Exe"**, que lista los códigos Cabys para productos exentos. Seleccione la pestaña de la tarifa que desees e ingresa palabras claves para buscar un código que se relacione con tu producto o servicio. Una vez encontrado solo debes tocar el código para que este se agregue a tu producto y se configure el impuesto correspondiente. Para el ejemplo de la calculadora, el código Cabys correspondiente es ***"4513000000000"*** sobre la pestaña **"Grav 13%"**.
 
 > Una vez que hagas esta parte los siguientes dos campos estarán completados, si necesitas cambiar la tarifa del impuesto lo puedes hacer.
 
--- **Código Iva**
+- **Código Iva**
 
 En esta opción escoges el tipo de impuesto de tu producto, normalmente se escoge *Impuesto al valor Agregado*.
 
--- **Código Tarifa IVA**
+- **Código Tarifa IVA**
 
 Es esta opción se escoge la tarifa del impuesto al que está afecto tu producto.
 
@@ -72,7 +72,7 @@ Esta opción sirve para definir la cantidad de decimales que tomará este produc
 
 Estos dos campos son auto calculados si ingresó valores en ***Costo*** y ***Margen***. Definen el precio sin impuesto y precio con impuesto.
 
--- **Tipo de producto**
+- **Tipo de producto**
 
 Define si el producto estará disponible para facturas de venta o facturas de compra. Por defecto se selecciona **"Venta"** ya que son los productos que se venderán.
 

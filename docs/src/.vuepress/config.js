@@ -49,7 +49,9 @@ module.exports = {
           children: [
             '',
             'first-steps',
-            'create-invoice'
+            'add-activity',
+            'create-invoice',
+            'add-logo',
           ]
         }
       ],
