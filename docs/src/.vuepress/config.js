@@ -52,6 +52,7 @@ module.exports = {
             'add-activity',
             'create-invoice',
             'add-logo',
+            'exonerate-document'
           ]
         }
       ],
