@@ -18,18 +18,35 @@ Seleccionamos **factura electrónica**, en el caso de tener que emitir un docume
 - **Cliente**
 
 Como ya hemos creado nuestro cliente, acá solo lo vamos a seleccionarlo presionando la flechita.
+Podemos buscarlo por cédula o nombre.
 
 
 - **Condición**
 
+En este espacio seleccionamos el tipo de cliente, ya sea a crédito o contado.
+
 - **Producto**
+
+Como ya hemos creado nuestro producto, acá solo tenemos que seleccionarlo. Podemos buscarlo por nombre o código.
 
 - **Cantidad**
 
+Acá vamos a colocar la cantidad de producto según corresponda.
+
 - **Precio V P**
+
+En este espacio se coloca el precio final del producto ya con el IVA incluido.
 
 - **Descuento**
 
+En este espacio podemos aplicar un descuento, se debe colocar en porcentaje, si no sabemos el porcentaje, presionamos sobre las flechitas horizontales para digitar el monto y el programa te calcula el porcentaje.
+
 - **Dinero**
 
+En el espacio "recibido" colocamos el monto recibido, ya sea el monto total, parcial o 0.
+
 - **Pago y comentarios**
+
+En esta opción vamos a elegir el método de pago según corresponda presionando la flechita hacia abajo.
+
+Para finalizar presionamos el botón **crear factura**
