@@ -18,11 +18,5 @@
   "devDependencies": {
     "nodemon": "^2.0.19",
     "vuepress": "^1.5.3"
-  },
-  "dependencies": {
-    "uuid": "^8.3.2"
-  },
-  "resolutions": {
-    "watchpack": "1.6.1"
   }
 }

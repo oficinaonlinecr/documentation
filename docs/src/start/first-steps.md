@@ -90,7 +90,67 @@ Si deseas editarlo, solo debes dar clic sobre el nombre del producto.
 
 Para crear un cliente debes ir al menú lateral izquierdo, buscar la opción mantenimiento, presionar sobre clientes y luego sobre el botón **Nuevo+**". Ahí deben llenar la información solicitada.
 
-Para finalizar solo debes presionar el botón **Guardar**
+>Los espacios que tienen un * a un lado son obligatorios, sin embargo la otra información también es importante. En el caso de que selecciones provincia, obligatoriamente debes llenar los demás espacios CANTÓN-DISTRITO-OTRAS SEÑAS.
+
+
+- **Tipo de cédula**
+
+En esta opción debes seleccionar una de las 4 opciones disponibles según corresponda. Física-Jurídica-DIMEX- NITE
+
+- **Cédula**
+
+Este espacio es obligatorio, acá debes colocar el número de cédula del contribuyente.
+
+- **Nombre**
+
+Este espacio es obligatorio. Una vez que se digite la cédula, el programa registra el nombre de manera automática.
+
+- **Provincia**
+
+Acá deben seleccionar la provincia del domicilio fiscal del cliente.
+
+- **Cantón**
+
+Acá deben seleccionar el cantón del domicilio fiscal del cliente.
+
+- **Distrito**
+
+Acá deben seleccionar el distrito del domicilio fiscal del cliente.
+
+- **Otras señas**
+
+Acá deben colocar la dirección exacta del domicilio fiscal del cliente.
+
+- **Teléfono**
+
+En este espacio se debe registrar el teléfono del cliente.
+
+- **Correo**
+
+En este espacio se debe colocar el correo principal del cliente.
+>"ejemplo@gmail.com"
+
+- **Correo 2**
+>Opcional
+
+En este espacio se puede colocar un correo secundario del cliente o un correo de respaldo.
+
+- **Tipo de cliente**
+
+En esta opción se debe seleccionar si el cliente es de contado o crédito.
+
+- **Monto máximo de crédito**
+
+En el caso de que sea un cliente a crédito, se debe colocar una suma máxima de crédito.(este monto se puede editar) Si no, queda en 0.
+
+- **Descuento %**
+
+En esta opción puedes aplicar un descuento a cliente, si no, simplemente se deja en 0.
+
+
+>Ya casi tienes tu cliente listo.
+
+Para finalizar solo debes presionar el botón **Guardar**.
 
 Si regresas a la lista de clientes, verás tu primer cliente disponible.
 
