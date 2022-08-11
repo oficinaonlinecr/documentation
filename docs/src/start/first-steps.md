@@ -88,4 +88,10 @@ Si deseas editarlo, solo debes dar clic sobre el nombre del producto.
 
 ## Crear un cliente
 
-Para crear un cliente debes ir al menú lateral izquierdo, buscar la opción mantenimiento
+Para crear un cliente debes ir al menú lateral izquierdo, buscar la opción mantenimiento, presionar sobre clientes y luego sobre el botón **Nuevo+**". Ahí deben llenar la información solicitada.
+
+Para finalizar solo debes presionar el botón **Guardar**
+
+Si regresas a la lista de clientes, verás tu primer cliente disponible.
+
+Si deseas editarlo, solo debes dar clic sobre el nombre del cliente.
