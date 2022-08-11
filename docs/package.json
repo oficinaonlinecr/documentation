@@ -11,7 +11,8 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "start": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src"
   },
   "license": "MIT",
   "devDependencies": {
