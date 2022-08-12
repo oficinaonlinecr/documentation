@@ -85,6 +85,9 @@ Si regresas a la lista de productos, verás tu primer producto disponible. :100:
 
 Si deseas editarlo, solo debes dar clic sobre el nombre del producto.
 
+::::tip
+Con esto has logrado crear el producto.
+::::
 
 ## Crear un cliente
 
@@ -155,3 +158,7 @@ Para finalizar solo debes presionar el botón **Guardar**.
 Si regresas a la lista de clientes, verás tu primer cliente disponible.
 
 Si deseas editarlo, solo debes dar clic sobre el nombre del cliente.
+
+::::tip
+Con esto has logrado crear el cliente.
+::::

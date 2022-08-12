@@ -13,11 +13,11 @@ En esta espacio se muestra la moneda predeterminada, sin embargo podemos selecci
 
 - **Tipo de documento**
 
-Seleccionamos **factura electrónica**, en el caso de tener que emitir un documento del mes anterior, podemos seleccionar **Facturación mes vencido**
+Seleccionamos **factura electrónica**, en el caso de tener que emitir un documento del mes anterior, podemos seleccionar **Facturación mes vencido**.
 
 - **Cliente**
 
-Como ya hemos creado nuestro cliente, acá solo lo vamos a seleccionarlo presionando la flechita.
+Como ya hemos creado nuestro cliente, acá solo lo vamos a seleccionar presionando la flechita.
 Podemos buscarlo por cédula o nombre.
 
 
@@ -48,5 +48,10 @@ En el espacio "recibido" colocamos el monto recibido, ya sea el monto total, par
 - **Pago y comentarios**
 
 En esta opción vamos a elegir el método de pago según corresponda presionando la flechita hacia abajo.
+Para hacer un comentario presionamos sobre el botón celeste "comentario" digitamos el detalle y damos clic en "aplicar"
 
 Para finalizar presionamos el botón **crear factura**
+
+::::tip
+Con esto has logrado hacer la factura.
+::::
