@@ -1,6 +1,6 @@
 # Exonerar un documento
 
-Ha dos formas de aplicar una exoneración:
+Hay dos formas de aplicar una exoneración:
 
 - Total sobre el documento.
 - Línea por línea.
