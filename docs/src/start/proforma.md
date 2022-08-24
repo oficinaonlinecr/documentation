@@ -1,7 +1,9 @@
-# Crear factura
+# Proforma
+Una proforma es un documento de compraventa de bienes y servicios, que se emite antes de finalizar la operación. Ya sea para especificar condiciones o para hacer una cotización. La misma, una vez que se ejecute el acuerdo de compraventa se puede convertir en factura electrónica.
 
-Una vez que se hayan guardado el cliente y los productos, estamos listos para poder realizar la factura.
-Nos dirigimos al menú de la izquierda y presionamos sobre facturas. Luego presionamos el botón **Nueva+**
+El procedimiento para crearla es el mismo del de una factura electrónica, en este caso el documento no se envía a Hacienda y al cliente solamente le llega un PDF.
+
+Nos dirigimos al menú de la izquierda, presionamos proforma y damos clic sobre **Nueva+**.
 
 - **Actividad**
 
@@ -11,13 +13,10 @@ En el caso de tener dos o más actividades inscritas debemos seleccionar la que 
 
 En esta espacio se muestra la moneda predeterminada, sin embargo podemos seleccionar otra según corresponda. Dólares-Colones.
 
-- **Tipo de documento**
-
-Seleccionamos **factura electrónica**, en el caso de tener que emitir un documento del mes anterior, podemos seleccionar **Facturación mes vencido**.
 
 - **Cliente**
 
-Como ya hemos creado nuestro cliente, acá solo lo vamos a seleccionar presionando la flechita.
+Acá solo lo vamos a seleccionar presionando la flechita.
 Podemos buscarlo por cédula o nombre.
 
 
@@ -41,17 +40,14 @@ En este espacio se coloca el precio final del producto ya con el IVA incluido.
 
 En este espacio podemos aplicar un descuento, se debe colocar en porcentaje, si no sabemos el porcentaje, presionamos sobre las flechitas horizontales para digitar el monto y el programa te calcula el porcentaje.
 
-- **Dinero**
-
-En el espacio "recibido" colocamos el monto recibido, ya sea el monto total, parcial o 0.
 
 - **Pago y comentarios**
 
 En esta opción vamos a elegir el método de pago según corresponda presionando la flechita hacia abajo.
 Para hacer un comentario presionamos sobre el botón celeste "comentario" digitamos el detalle y damos clic en "aplicar".
 
-Para finalizar presionamos el botón **crear factura**.
+Para finalizar seleccionamos si lo vamos a hacer en ticket o factura y por último damos clic sobre **Crear Proforma**.
 
 ::::tip
-Con esto has logrado hacer la factura.
+    Con esto has logrado hacer la proforma.
 ::::

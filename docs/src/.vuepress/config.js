@@ -51,6 +51,10 @@ module.exports = {
             'first-steps',
             'add-activity',
             'create-invoice',
+           'creditnote',
+           'debitnote',
+           'proforma',
+           'receipt',
             'add-logo',
             'exonerate-document',
             'inventory'
