@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-
+  
   base: "/documentation/",
 
   /**
@@ -30,17 +30,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    searchPlaceholder: 'Buscar...',
     repo: '',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
-    nav: [
-      {
-        text: 'Oficinaonline',
-        link: 'https://oficinaonlinecr.com'
-      }
-    ],
+    lastUpdated: 'Actualizado el',
     sidebar: {
       '/start/': [
         {
