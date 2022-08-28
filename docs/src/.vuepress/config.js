@@ -53,7 +53,8 @@ module.exports = {
             'create-invoice',
             'add-logo',
             'exonerate-document',
-            'inventory'
+            'inventory',
+            'invoice-pending'
           ]
         }
       ],
