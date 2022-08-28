@@ -49,7 +49,9 @@ module.exports = {
             'add-logo',
             'exonerate-document',
             'inventory',
-            'invoice-pending'
+            'invoice-pending',
+            'proforma',
+            'reduced-rate'
           ]
         }
       ],
