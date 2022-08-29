@@ -18,9 +18,9 @@ Para realizar un recibo tenemos dos formas:
 
 ## Recibo sobre el documento:
 
-Sobre la lista de documentos, debes ir a la derecha sobre la factura con saldo mayor a 0, presionas el botón **Acción** y escojes la opción **Abono +**, serás llevado al formulario para ingresar los datos del abono, este puede ser parcial o total.
+Sobre la lista de documentos, debes ir a la derecha sobre la factura con saldo mayor a 0, presionas el botón **Acción** y escoges la opción **Abono +**, serás llevado al formulario para ingresar los datos del abono, este puede ser parcial o total.
 
-Una vez en el formulario, ingresas la informacion correspondiente al pago:
+Una vez en el formulario, ingresas la información correspondiente al pago:
 
 - **Fecha del pago**
 
@@ -46,7 +46,7 @@ Al presionar este botón se mostrará una ventana para ingresar información rel
 Una vez ingresada y revisada la información, debes presionar el botón verde que dice **"Crear recibo"**
 
 
-::::tip
+::::tip Recibo creado
 Con esto has creado un recibo de dinero sobre un documento.
 ::::
 
@@ -68,7 +68,7 @@ En este campo ingresas la fecha efectiva en la cual se recibió el pago, por eje
 
 -- ***Modificar monto***
  
-Al seleccionar un documento, por defecto se aplica el monto del saldo, si desear aplicar un abono menor, seleccione esta casilla y a continuación ingrese el monto a aplicar, el monto debe ser mayor a 0 y menor o igual al saldo del documento.
+Al seleccionar un documento, por defecto se aplica el monto del saldo, si desea aplicar un abono menor, seleccione esta casilla y a continuación ingrese el monto a aplicar, el monto debe ser mayor a 0 y menor o igual al saldo del documento.
 
 -- **Monto**
 
@@ -89,7 +89,7 @@ Al presionar este botón se mostrará una ventana para ingresar información rel
 
 Una vez ingresada y revisada la información, debes presionar el botón verde que dice **"Crear recibo"**
 
-::::tip
+::::tip Recibo creado
 Con esto has creado un recibo de dinero sobre un cliente con uno o varios documentos.
 ::::
 
@@ -104,9 +104,9 @@ Puedes usar las pestañas de antigúedad para buscar documentos.
 
 Para marcar un documento debes presionar la casilla de la derecha sobre el documento en cuestión y das clic sobre el botón celeste que dice **"Aplicar"**, se mostrará una ventana de confirmación preguntando si deseas continuar y avisándote que esta acción es irreversible.
 
-Si estás de acuerdo, entonces presiona el boton que dice **"Sí, quitar saldo"**
+Si estás de acuerdo, entonces presiona el botón que dice **"Sí, quitar saldo"**
 
 
-::::tip
+::::tip Recibo creado
 Con esto has quitado el saldo de una o varias facturas sin generar recibos de dinero
 ::::

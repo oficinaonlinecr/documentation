@@ -34,11 +34,11 @@ En esta lista verás todos los productos a los cuales les activaste la casilla e
 - **Inicial:**
 
 Cuando el producto no tiene ningún movimiento y *Existencias* en 0, este campo será editable. Sirve para indicar la cantidad inicial del stock para esta línea.
-> Una vez ingresado un valor, ya no ser editable.
+> Una vez ingresado un valor, ya no será editable.
 
 - **Existencias:**
 
-En este campo se muestran la cantidad de producto disponible para la venta, este campo se ve actualizando cada vez que realizas una venta o cuando ingresas mercadería. También se puede modificar por medio de ajustes.
+En este campo se muestran la cantidad de producto disponible para la venta, este campo se va actualizando cada vez que realizas una venta o cuando ingresas mercadería. También se puede modificar por medio de ajustes.
 
 
 - **Mínimo:**
@@ -54,7 +54,7 @@ Define la cantidad máxima de productos que deseas tener disponibles para la ven
 Define la ubicación física del producto en la tienda, su objetivo es ayudarte a encontrar el producto para ser entregado al cliente. Para actualizarlo presione el ícono de la derecha.
 >Ejemplo: Tarima 2, o sección 3B.
 
-::::tip
+::::tip Stock agregado
  Ya has agregado **Stock** inicial a tus productos.
 ::::
 
@@ -79,7 +79,7 @@ En ambos casos al regresar a la pestaña **Stock** verás los cambios aplicados.
 
 > El comentario por línea es opcional
 
-::::tip
+::::tip Stock agregado
  Con estos pasos has ajustado el stock de los productos
 ::::
 
@@ -89,7 +89,7 @@ Para cargar el stock desde facturas de compra recibidas en el sistema, debe ir a
 
 Marque la casilla para los documentos que deseas agregar al módulo inventario. Una vez marcados estos aparecerán en dicho módulo bajo la pestaña **"Pendientes"**.
 
-Ahora dirígete al módulo inventario da clic sobre pa pestaña **"Pendientes"** y escoga la categoría correspondiente *Facturas, Ticketes, Notas de crédito o Notas de débito*.
+Ahora dirígete al módulo inventario de clic sobre la pestaña **"Pendientes"** y escoga la categoría correspondiente *Facturas, Ticketes, Notas de crédito o Notas de débito*.
 
 Ahora toca el número del documento para ver un listado con los productos provenientes del documento y asociarlos con los tuyos.
 
@@ -99,7 +99,7 @@ Vamos a ver para que son.
 
 - **"Enviar a stock"**
 
-Este campo sirve para seleccionar de esa lista de productos cuales quiero procesar, por defecto está seleccionada. Si hay una línea que no es para el inventario, entonces desmárquela.
+Este campo sirve para seleccionar, de esa lista de productos, cuales quiere procesar, por defecto está seleccionada. Si hay una línea que no es para el inventario, entonces desmárquela.
 > Ejemplo: Compró algo para uso personal o del negocio al mismo proveedor, como productos de limpieza.
 
 - **"Código"**
@@ -134,7 +134,7 @@ Si el precio del producto del xml es diferente del precio de tu producto asociad
 - **"Crear producto"** *Casilla*
 
 Esta casilla se usa por si el producto del xml no tiene un candidato para asociar. El producto es nuevo y no existe en tu base de datos.
-Al marcarla se creará un nuevo producto en tu base de datos con los datos procedcentes del xml del proveedor.
+Al marcarla se creará un nuevo producto en tu base de datos con los datos procedentes del xml del proveedor.
 > Luego lo puedes editar.
 
 - **"Margen (%)"**
@@ -146,6 +146,6 @@ Una vez explicado para que sirve cada campo, solo falta que asocies cada línea 
 
 > En el caso de las **Notas de crédito**, cuando se aplican, estas descontarán la cantidad de existencias.
 
-::::tip
+::::tip Stock agregado
  Con esto has agregado productos a tu stock por medio de un documento de compra
 ::::
