@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const path = require("path");
 
 module.exports = {
   
@@ -64,5 +65,19 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-  ]
+  ],
+
+  thirdPartyComponents: {
+    fontAwesomeIcons:{
+        regular:[''],  // Regular font awesome icon keys here
+        solid:['sync'] // Solid font awesome icon keys here
+    }
+  },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@assets': "../.vuepress/public/assets",
+      }
+    }
+  }
 }

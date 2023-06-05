@@ -9,14 +9,17 @@
   },
   "repository": "oficinaonlinecr/info-vue",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src",
+    "docs:dev": "vuepress dev src",
     "docs:build": "vuepress build docs",
-    "start": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src"
+    "docs:start": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src",
+    "fa:build": "node src/fa-index.js"
   },
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.19",
     "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "vuepress-plugin-font-awesome": "^1.90.6"
   }
 }
